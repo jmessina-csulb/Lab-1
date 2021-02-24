@@ -1,2 +1,12 @@
 # Lab-1
-Lab 1 GitHub repo CSULB CECS 327 Spring 2021
+CECS 327
+Professor Giacalone
+Spring 2021
+
+
+Team AB:
+
+John Messina
+Nkechidindu Okorie
+
+
