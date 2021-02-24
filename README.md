@@ -1,4 +1,4 @@
-# Lab-1
+# Lab-1 Team AB
 CECS 327
 Professor Giacalone
 Spring 2021
